@@ -31,12 +31,6 @@
 <category_id>1</category_id>
 </channel>
 <channel>
-<title>YouTube</title>
-<logo_30x30>http://www.4wheelsnews.com/images/socialicons/square/youtube.jpg</logo_30x30>
-<playlist_url>http://getlist.obovse.ru/smarttv/ytube.php</playlist_url>
-<category_id>1</category_id>
-</channel>
-<channel>
 <title>alexkdpu - ForkPlayer</title>
 <logo_30x30><![CDATA[http://www.de-online.ru/icon/_0016_Vector-Smart-Object.png]]></logo_30x30>
 <playlist_url><![CDATA[http://obovse.ru/alexkdpu.php]]></playlist_url>
@@ -44,21 +38,28 @@
 <center><img src='http://getsapp.ru/Img/tizen/fork_logo.png'></img></center></description>
 </channel>
 <channel>
+<title>YouTube</title>
+<logo_30x30>http://www.4wheelsnews.com/images/socialicons/square/youtube.jpg</logo_30x30>
+<playlist_url>http://getlist.obovse.ru/smarttv/ytube.php</playlist_url>
+<category_id>1</category_id>
+</channel>
+	<channel>
 <title>AdultsSlyNet</title>
 <logo_30x30><![CDATA[https://www.uvi.net/themes/uvi/img/icon/icon_account.png]]></logo_30x30>
 <playlist_url><![CDATA[http://iptv.slynet.tv/AdultsSlyNet.m3u]]></playlist_url>
 </channel>
 <channel>
-<title>Сериалы</title>
-<logo_30x30>https://irs1.4sqi.net/img/general/cap/30/justifications_movie_20161027.png</logo_30x30>
-<description>Сериалы</description>
-<playlist_url>https://sites.google.com/site/vmn050581/home/serial.m3u</playlist_url>
-<category_id>1</category_id>
-</channel>
-<channel>
-<title>Интернет порталы</title>
-<logo_30x30>https://sameapk.com/wp-content/themes/sameapk/images/ps-icon.png</logo_30x30>
-<playlist_url>https://sites.google.com/site/vmn050581/home/entuziasty.xml</playlist_url>
+<title>
+<![CDATA[
+Плейлисты от <font color="#00ccff">"sweta1979"</font>
+]]>
+</title>
+<playlist_url>http://iptv.root-host.pro/list/test.xml</playlist_url>
+<description>
+<![CDATA[
+<table><td style="vertical-align: top"><img src="logos/image.png" height="128" width="128"></img></td><td>Бесплатное IP-TV и видеотеки.<h2>=ALL-RUSS-IPTV=</h2></td></table><table style="width:100%; padding-top:4px;padding-bottom:4px;"><tr height="4px" bgcolor="#cccccc"><td></td></tr></table>
+]]>
+</description>
 <category_id>1</category_id>
 </channel>
 <channel>
