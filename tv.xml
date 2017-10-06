@@ -78,4 +78,14 @@
 <playlist_url>https://sites.google.com/site/vmn050581/home/cam.m3u</playlist_url>
 <logo_30x30>http://s1.iconbird.com/ico/0912/IconBeastLite/w30h301347459121cctv.png</logo_30x30>
 </channel>
+<channel>
+<title>moonwalk</title>
+<playlist_url>http://obovse.ru/smarttv/moonwalk.php</playlist_url>
+<logo_30x30>https://tv55.github.io/logo/VideoLogo.png</logo_30x30>
+</channel>	
+<channel>
+<title>rutube</title>
+<playlist_url>http://obovse.ru/smarttv/rutube.php</playlist_url>
+<logo_30x30>https://tv55.github.io/logo/VideoLogo.png</logo_30x30>
+</channel>
 </items>
