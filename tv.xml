@@ -3,7 +3,7 @@
 <playlist_name> Мой Playlist </playlist_name>
 <channel>
 <title>Избранное</title>
-<logo_30x30>https://androidapplications.ru/img/star-30.png</logo_30x30>
+<logo_30x30>tv55.github.io/logo/30.png</logo_30x30>
 <playlist_url>OpenFav</playlist_url>
 <description>Избранное<br>
 <center><img src='http://golig.com/wp-content/uploads/2013/03/star-favorite-bynagaya_21_2.png'></img></center></br>
@@ -21,7 +21,7 @@
 </channel>
 <channel>
 <title>IPTV</title>
-<playlist_url>https://sites.google.com/site/vmn050581/home/iptv.xml</playlist_url>
+<playlist_url>tv55.github.io/iptv.xml</playlist_url>
 <logo_30x30>http://rikt.ru/sites/default/files/iptv.png</logo_30x30>
 </channel>
 <channel>
@@ -72,13 +72,6 @@
 <title>mappi</title>
 <playlist_url>http://mylist.obovse.ru/mappi</playlist_url>
 <logo_30x30>http://www.uchebnik.com/cache/images/c2bca3afe7a138dc372e41567a52c8a7.png</logo_30x30>
-</channel>
-<channel>
-<logo_30x30><![CDATA[http://getlist.obovse.ru/smarttv/youtube-logo.png]]></logo_30x30>
-	<title><![CDATA[YouTube]]></title>	
-	<playlist_url><![CDATA[http://getlist.obovse.ru/smarttv/ytube.php]]></playlist_url>
-	<description><![CDATA[<center><img src='http://s1.n1.by/sites/default/files/imagecache/full/news/09/25/629304/1348565697.jpg'></img><br><br>
-	Поиск по каналам и видео]]></description>
 </channel>
 <channel>
 <title>Камеры</title>
