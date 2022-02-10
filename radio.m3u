@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1,Вести FM
+https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
+#EXTINF:-1,Радио России
+https://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
+#EXTINF:-1,Радио Маяк
+https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps
+#EXTINF:-1,Москва FM
+https://icecast-vgtrk.cdnvideo.ru/moscowfm128
+#EXTINF:-1,Говорит Москва
+https://media.govoritmoskva.ru/radio/rufm.mp3
+#EXTINF:-1,Радио Культура
+https://icecast-vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps
+#EXTINF:-1,Радио Книга Вслух
+https://eapps-cs.herokuapp.com/soyuztop.ru:4000/radio
+#EXTINF:-1,Радио Книга
+http://bookradio.hostingradio.ru:8069/fm
+#EXTINF:-1,ЗвукоКнига
+https://eapps-cs.herokuapp.com/http://94.181.45.104:8005/;stream.nsv?5c09
+#EXTINF:-1,Старое Радио-Театр
+http://195.91.237.50:8000/ices128
+#EXTINF:-1,РАДИО CLASSIC GOLD
+http://jfm1.hostingradio.ru:14536/gcstream.mp3
+#EXTINF:-1,Симфония FM
+https://str5.pcradio.ru/record_symph-med
+#EXTINF:-1,Радио Классик
+http://jfm1.hostingradio.ru:14536/rcstream.mp3
+#EXTINF:-1,Поэзия на Классик
+http://jfm1.hostingradio.ru:14536/pcstream.mp3
+#EXTINF:-1,Радио Спутник
+https://riavoice.gcdn.co/voicerus
+#EXTINF:-1,Шансон 24
+https://chanson.hostingradio.ru:8041/chanson128.mp3
+#EXTINF:-1,Шансон Радио
+https://chanson.hostingradio.ru:8041/chanson128.mp3?md5=0neB804IJtD0g7hwa2PbjQ&e=1644507198
+#EXTINF:-1,Шансон Романтический
+https://chanson.hostingradio.ru:8041/chanson-romantic256.mp3
